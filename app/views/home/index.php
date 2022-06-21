@@ -1,0 +1,1 @@
+<img src="layouts/assets/images/1.png" class="rounded mx-auto d-block" width="50%" >
